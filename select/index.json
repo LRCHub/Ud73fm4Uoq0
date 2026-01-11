@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Palette",
+  "base_artist": "常闇トワ",
+  "createdAt": "2026-01-11T13:25:18.467559Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dream Palette",
+      "artist": "Yves Tumor",
+      "has_synced": true,
+      "path": "select/01_Dream_Palette_Yves_Tumor.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Extra Dimensional Palette Cleanser",
+      "artist": "Norma Jean",
+      "has_synced": false,
+      "path": "select/02_Extra_Dimensional_Palette_Cleanser_Norma_Jean.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Canvas boy × Palette girl",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/03_Canvas_boy_×_Palette_girl_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Palette (feat. G-DRAGON)",
+      "artist": "IU feat. G-DRAGON",
+      "has_synced": true,
+      "path": "select/04_Palette_(feat._G-DRAGON)_IU_feat._G-DRAGON.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Palette",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/05_Palette_IU.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Palette (Feat. G-DRAGON)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/06_Palette_(Feat._G-DRAGON)_IU.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Palette",
+      "artist": "常闇トワ",
+      "has_synced": true,
+      "path": "select/07_Palette_常闇トワ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Palette",
+      "artist": "IU feat. G-Dragon",
+      "has_synced": true,
+      "path": "select/08_Palette_IU_feat._G-Dragon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Palette (feat. G-DRAGON)",
+      "artist": "IU/G-DRAGON",
+      "has_synced": true,
+      "path": "select/09_Palette_(feat._G-DRAGON)_IU_G-DRAGON.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Palette",
+      "artist": "Grayscale",
+      "has_synced": false,
+      "path": "select/10_Palette_Grayscale.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wonder Palette",
+      "artist": "TK from Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/11_Wonder_Palette_TK_from_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wonder Palette",
+      "artist": "TK from 凛として時雨",
+      "has_synced": true,
+      "path": "select/12_Wonder_Palette_TK_from_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Palette",
+      "artist": "IU; G-Dragon",
+      "has_synced": true,
+      "path": "select/13_Palette_IU;_G-Dragon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Majolica Palette",
+      "artist": "halca",
+      "has_synced": true,
+      "path": "select/14_Majolica_Palette_halca.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Palette",
+      "artist": "ゆよゆっぺ",
+      "has_synced": false,
+      "path": "select/15_Palette_ゆよゆっぺ.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Canvas Boy x Palette Girl",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/16_Canvas_Boy_x_Palette_Girl_LiSA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Palette",
+      "artist": "常闇トワ",
+      "has_synced": false,
+      "path": "select/pl_01_Palette_常闇トワ.txt"
+    }
+  ]
+}
